@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1536320543 source:d:\bestanden\data\codes\programeren\c++\projecten\templatelang2\main.cpp
+	"tpl.hpp"
+	<iostream>
+	<typeinfo>
+	<cxxabi.h>
+
+1536315489 d:\bestanden\data\codes\programeren\c++\projecten\templatelang2\tpl\string.hpp
+	"tpl/types.hpp"
+
+1536246877 d:\bestanden\data\codes\programeren\c++\projecten\templatelang2\tpl.hpp
+	"tpl/arith.hpp"
+	"tpl/cast.hpp"
+	"tpl/compare.hpp"
+	"tpl/if.hpp"
+	"tpl/list.hpp"
+	"tpl/map.hpp"
+	"tpl/string.hpp"
+	"tpl/types.hpp"
+
+1536240891 d:\bestanden\data\codes\programeren\c++\projecten\templatelang2\tpl\compare.hpp
+	"tpl/types.hpp"
+
+1536249652 d:\bestanden\data\codes\programeren\c++\projecten\templatelang2\tpl\types.hpp
+	<cstddef>
+
+1536320594 d:\bestanden\data\codes\programeren\c++\projecten\templatelang2\tpl\map.hpp
+	"tpl/types.hpp"
+	"tpl/compare.hpp"
+	"tpl/if.hpp"
+	"tpl/arith.hpp"
+
+1536240934 d:\bestanden\data\codes\programeren\c++\projecten\templatelang2\tpl\if.hpp
+
+1536246059 d:\bestanden\data\codes\programeren\c++\projecten\templatelang2\tpl\arith.hpp
+	"tpl/types.hpp"
+
+1536315154 d:\bestanden\data\codes\programeren\c++\projecten\templatelang2\tpl\cast.hpp
+	"tpl/types.hpp"
+
+1536320275 d:\bestanden\data\codes\programeren\c++\projecten\templatelang2\tpl\list.hpp
+	"tpl/types.hpp"
+
